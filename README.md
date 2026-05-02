@@ -58,11 +58,18 @@ Aspiring Data Scientist | AI Enthusiast
 
 ---
 
-## 🐍 Contribution Snake
+---
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+## 📈 Activity Graph
+
+![Sowmi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=react-dark)
 
 ---
+
+## 🧠 Quote I Believe In
+
+✨ *"Consistency and curiosity are my greatest strengths — I learn, build, and grow every single day."*
+
 
 ## 🚀 Projects
 
