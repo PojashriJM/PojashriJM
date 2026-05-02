@@ -44,17 +44,11 @@ Aspiring Data Scientist | AI Enthusiast
 
 ---
 
-## 📊 GitHub Stats
 
-![Sowmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
-
----
 
 ## 🔥 Contribution Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=PojashriJM\&theme=radical)
 
 ---
 
@@ -65,11 +59,6 @@ Aspiring Data Scientist | AI Enthusiast
 ![Sowmi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=react-dark)
 
 ---
-
-## 🧠 Quote I Believe In
-
-✨ *"Consistency and curiosity are my greatest strengths — I learn, build, and grow every single day."*
-
 
 ## 🚀 Projects
 
@@ -110,4 +99,6 @@ Aspiring Data Scientist | AI Enthusiast
 
 ---
 
-🌟 *"Turning ideas into impactful solutions, one project at a time."*
+## 🧠 Quote I Believe In
+
+✨ *"A smooth sea never made a skilled sailor"*
