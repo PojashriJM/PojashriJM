@@ -75,7 +75,7 @@ An intelligent document analysis system that extracts, summarizes, and interpret
 
 
 
-## 🎯 Goals
+## Goals
 
 ```text
 - Build end-to-end AI applications that solve real-world problems
