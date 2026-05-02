@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sowmi!
+# 👋 Hi, I'm Poja Shri!
 
 🎓 B.Tech in Artificial Intelligence & Data Science
 💡 Passionate about building real-world AI solutions
@@ -21,9 +21,8 @@
 ### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=database\&logoColor=white)
-
-### 🤖 AI / ML
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
@@ -47,8 +46,9 @@
 
 🔹 AI-Powered Smart Watch for Blind People
 🔹 Personal Information System (Python GUI)
-🔹 Budget Tracker with AI Assistant
+🔹 DocMind AI
 🔹 Portfolio Website
+🔹 Million Dollar Instapage
 
 👉 More projects coming soon...
 
