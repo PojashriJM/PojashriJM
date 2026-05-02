@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Poja Shri!
+# Hi, I'm Poja Shri!
 
-🎓 B.Tech in Artificial Intelligence & Data Science
-💡 Passionate about building real-world AI solutions
-🚀 Aspiring Data Scientist | AI Enthusiast
+B.Tech in Artificial Intelligence & Data Science
+Passionate about building real-world AI solutions
+Aspiring Data Scientist | AI Enthusiast
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 * I build AI-powered solutions to solve real-world problems
 * Currently exploring **Machine Learning, NLP, and Full-Stack Development**
@@ -16,13 +16,15 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=database\&logoColor=white)
+
+### 🤖 AI / ML
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
@@ -42,13 +44,32 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Sowmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+
+---
+
+## 🔥 Contribution Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=radical)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🚀 Projects
 
 🔹 AI-Powered Smart Watch for Blind People
 🔹 Personal Information System (Python GUI)
-🔹 DocMind AI
+🔹 Budget Tracker with AI Assistant
 🔹 Portfolio Website
-🔹 Million Dollar Instapage
 
 👉 More projects coming soon...
 
@@ -56,10 +77,10 @@
 
 ## 📫 Connect With Me
 
-📧 Email: [pojashrijm2006@gmail.com](mailto:your-email@gmail.com)
-💼 LinkedIn: [https://linkedin.com/in/poja-shri-jm](https://www.linkedin.com/in/poja-shri-jm)
+📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+💼 LinkedIn: https://linkedin.com/in/your-profile
 🌐 Portfolio: https://your-portfolio-link
 
 ---
 
-⭐ *“Building today for a smarter tomorrow.”*
+🔥 *"I don’t wait for opportunities — I build them, one project at a time."*
