@@ -68,19 +68,39 @@ Aspiring Data Scientist | AI Enthusiast
 
 🔹 AI-Powered Smart Watch for Blind People
 🔹 Personal Information System (Python GUI)
-🔹 Budget Tracker with AI Assistant
+🔹 DocMind AI
 🔹 Portfolio Website
 
 👉 More projects coming soon...
 
 ---
+---
 
-## 📫 Connect With Me
+## 🎯 Goals
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-💼 LinkedIn: https://linkedin.com/in/your-profile
-🌐 Portfolio: https://your-portfolio-link
+```text
+- Build end-to-end AI applications that solve real-world problems
+- Crack campus placements at a top tech/data company
+- Grow into a skilled ML Engineer / AI Developer
+- Collaborate with developers across the globe
+```
 
 ---
 
-🔥 *"I don’t wait for opportunities — I build them, one project at a time."*
+## 🏅 Badges & Highlights
+
+![AI & Data Science](https://img.shields.io/badge/AI%20%26%20Data%20Science-grey?style=for-the-badge)
+![B.Tech](https://img.shields.io/badge/B.Tech-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge)
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-black?style=for-the-badge\&logo=github)](https://github.com/YourUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge\&logo=gmail)](mailto:your-email@gmail.com)
+
+---
+
+🌟 *"Turning ideas into impactful solutions, one project at a time."*
