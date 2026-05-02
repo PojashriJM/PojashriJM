@@ -20,9 +20,9 @@ Aspiring Data Scientist | AI Enthusiast
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=database\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database\&logoColor=white)
 
 ### AI / ML
 
@@ -54,7 +54,7 @@ Aspiring Data Scientist | AI Enthusiast
 
 ##  Activity Graph
 
-![Sowmi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PojashriJM\&theme=react-dark)
+![Poja's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PojashriJM\&theme=react-dark)
 
 ---
 
