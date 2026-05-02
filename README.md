@@ -58,7 +58,7 @@ Aspiring Data Scientist | AI Enthusiast
 
 ---
 
----
+
 
 ## Featured Projects
 
@@ -73,8 +73,7 @@ An intelligent document analysis system that extracts, summarizes, and interpret
 
 ---
 
----
----
+
 
 ## 🎯 Goals
 
