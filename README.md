@@ -17,7 +17,9 @@ Aspiring Data Scientist | AI Enthusiast
 ---
 
 ## Skills & Technologies
+## 💻 Tech Stack
 
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,react,tailwind,git,github,vscode,mysql)](https://skillicons.dev)
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python\&logoColor=white)
