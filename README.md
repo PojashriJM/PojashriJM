@@ -16,26 +16,29 @@ Aspiring Data Scientist | AI Enthusiast
 
 ---
 
-## Skills & Technologies
+## 🛠️ Skills & Technologies
 
-### 🤖 AI / ML & Data Science
-[![AI/ML Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn,mysql)](https://skillicons.dev)
-
----
-
-### 🌐 Frontend Development
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
+### 💻 Languages
+[![Languages](https://skillicons.dev/icons?i=python,java,mysql)](https://skillicons.dev)
 
 ---
 
-### ⚙️ Programming & Tools
-[![Tools Skills](https://skillicons.dev/icons?i=java,git,github,vscode)](https://skillicons.dev)
+### 🤖 AI / ML
+[![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
 
-### Tools & Platforms
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
+---
+
+### 🌐 Web Development
+[![Web Development](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+---
+
+### ⚙️ Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,firebase)](https://skillicons.dev)
 
 ---
 
