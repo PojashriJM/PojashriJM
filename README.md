@@ -17,26 +17,19 @@ Aspiring Data Scientist | AI Enthusiast
 ---
 
 ## Skills & Technologies
-## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,react,tailwind,git,github,vscode,mysql)](https://skillicons.dev)
-### Languages
+### 🤖 AI / ML & Data Science
+[![AI/ML Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn,mysql)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database\&logoColor=white)
+---
 
-### AI / ML
+### 🌐 Frontend Development
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+---
 
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+### ⚙️ Programming & Tools
+[![Tools Skills](https://skillicons.dev/icons?i=java,git,github,vscode)](https://skillicons.dev)
 
 ### Tools & Platforms
 
