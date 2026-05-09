@@ -15,6 +15,24 @@ Aspiring Data Scientist | AI Enthusiast
 * I believe in *learning by building* 
 
 ---
+##  GitHub Stats
+
+<table>
+<tr>
+<td>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PojashriJM&theme=tokyonight)
+
+</td>
+
+<td>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PojashriJM&theme=tokyonight)
+
+</td>
+</tr>
+</table>
+---
 
 ## 🛠️ Skills & Technologies
 
@@ -44,20 +62,6 @@ Aspiring Data Scientist | AI Enthusiast
 
 
 
-##  Contribution Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=PojashriJM\&theme=radical)
-
----
-
-##  Activity Graph
-
-![Poja's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PojashriJM\&theme=react-dark)
-
----
-
-
-
 ## Featured Projects
 
 ### 🔹 Fake Job Detection System
@@ -81,6 +85,11 @@ An intelligent document analysis system that extracts, summarizes, and interpret
 - Grow into a skilled ML Engineer / AI Developer
 - Collaborate with developers across the globe
 ```
+
+---
+##  Activity Graph
+
+![Poja's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PojashriJM\&theme=react-dark)
 
 ---
 
