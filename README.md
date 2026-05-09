@@ -32,8 +32,8 @@ Aspiring Data Scientist | AI Enthusiast
 </td>
 </tr>
 </table>
----
 
+---
 ## 🛠️ Skills & Technologies
 
 ### 💻 Languages
