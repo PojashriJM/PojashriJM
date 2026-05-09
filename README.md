@@ -1,4 +1,4 @@
-# Hi, I'm Poja Shri!
+# Hi, I'm Poja Shri! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 B.Tech in Artificial Intelligence & Data Science
 Passionate about building real-world AI solutions
