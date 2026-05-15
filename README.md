@@ -64,11 +64,11 @@ Aspiring Data Scientist | AI Enthusiast
 
 ## Featured Projects
 
-### 🔹 Fake Job Detection System
+### Fake Job Detection System
 
 An AI-based system that analyzes job postings to detect fraudulent listings using machine learning techniques. Helps users avoid scams by identifying suspicious patterns in job descriptions.
 
-### 🔹 DocMind AI
+### DocMind AI
 
 An intelligent document analysis system that extracts, summarizes, and interprets content from documents using NLP techniques, enabling faster and smarter information processing.
 
