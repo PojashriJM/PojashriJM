@@ -75,8 +75,6 @@ Aspiring Data Scientist | AI Enthusiast
 </a>
 
 </div>
----
-
 
 
 ## Featured Projects
