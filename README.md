@@ -34,30 +34,47 @@ Aspiring Data Scientist | AI Enthusiast
 </table>
 
 ---
-## 🛠️ Skills & Technologies
+<div align="center">
 
-### 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=python,java,mysql)](https://skillicons.dev)
+<h2>🛠️ Skills & Technologies</h2>
 
----
+<h3>💻 Languages</h3>
 
-### 🤖 AI / ML
-[![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql" />
+</a>
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<br>
 
----
+<h3>🤖 AI / ML</h3>
 
-### 🌐 Web Development
-[![Web Development](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</a>
 
----
+<br>
 
-### ⚙️ Tools & Platforms
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,firebase)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
+<br>
+
+<h3>🌐 Web Development</h3>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</a>
+
+<br>
+
+<h3>⚙️ Tools & Platforms</h3>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
+</a>
+
+</div>
 ---
 
 
