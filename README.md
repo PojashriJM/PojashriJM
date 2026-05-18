@@ -36,9 +36,9 @@ Aspiring Data Scientist | AI Enthusiast
 ---
 <div align="center">
 
-<h2>🛠️ Skills & Technologies</h2>
+<h2>Skills & Technologies</h2>
 
-<h3>💻 Languages</h3>
+<h3> Languages</h3>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,java,mysql" />
@@ -46,7 +46,7 @@ Aspiring Data Scientist | AI Enthusiast
 
 <br>
 
-<h3>🤖 AI / ML</h3>
+<h3>AI / ML</h3>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
@@ -60,7 +60,7 @@ Aspiring Data Scientist | AI Enthusiast
 
 <br>
 
-<h3>🌐 Web Development</h3>
+<h3>Web Development</h3>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -68,7 +68,7 @@ Aspiring Data Scientist | AI Enthusiast
 
 <br>
 
-<h3>⚙️ Tools & Platforms</h3>
+<h3>Tools & Platforms</h3>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
