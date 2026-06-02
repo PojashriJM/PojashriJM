@@ -15,25 +15,6 @@ Aspiring Data Scientist | AI Enthusiast
 * I believe in *learning by building* 
 
 ---
-##  GitHub Stats
-
-<table>
-<tr>
-<td>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PojashriJM&theme=tokyonight)
-
-</td>
-
-<td>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PojashriJM&theme=tokyonight)
-
-</td>
-</tr>
-</table>
-
----
 <div align="center">
 
 <h2>Skills & Technologies</h2>
