@@ -1,18 +1,14 @@
 # Hi, I'm Poja Shri! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-B.Tech in Artificial Intelligence & Data Science
-Passionate about building real-world AI solutions
+B.Tech in Artificial Intelligence & Data Science.
+Passionate about building real-world AI solutions.
 Aspiring Data Scientist | AI Enthusiast
 
 ---
 
-## About Me
+### About Me
 
-* I build AI-powered solutions to solve real-world problems
-* Currently exploring **Machine Learning, NLP, and Full-Stack Development**
-* Interested in **AI Agents, Smart Systems, and Automation**
-* Actively seeking **internships and placement opportunities**
-* I believe in *learning by building* 
+I started my journey with curiosity and a simple question: "What can I build with technology?" Today, I'm a Data Science student exploring AI, machine learning, and web development—turning ideas into projects and learning something new with every step. 
 
 ---
 <div align="center">
@@ -73,13 +69,16 @@ An intelligent document analysis system that extracts, summarizes, and interpret
 
 
 
-## Goals
+## What I'm Working Towards
 
 ```text
-- Build end-to-end AI applications that solve real-world problems
-- Crack campus placements at a top tech/data company
-- Grow into a skilled ML Engineer / AI Developer
-- Collaborate with developers across the globe
+• Turning ideas into projects that people can actually use.
+
+• Learning something new every day and constantly improving my skills.
+
+• Exploring AI, web development, and emerging technologies through hands-on projects.
+
+• Collaborating with people who love building and sharing knowledge.
 ```
 
 ---
@@ -104,7 +103,6 @@ An intelligent document analysis system that extracts, summarizes, and interpret
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge\&logo=gmail)](mailto:pojashrijm2006@gmail.com)
 
 ---
+> "The best way to predict the future is to create it." — Peter Drucker
 
-## Quote I Believe In
-
- *"A smooth sea never made a skilled sailor"*
+Thanks for visiting my profile.
