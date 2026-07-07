@@ -56,15 +56,17 @@ I started my journey with curiosity and a simple question: "What can I build wit
 
 ## Featured Projects
 
-### Fake Job Detection System
+### Fake Job Detection System 
 
 An AI-based system that analyzes job postings to detect fraudulent listings using machine learning techniques. Helps users avoid scams by identifying suspicious patterns in job descriptions.
+
+[![GitHub](https://img.shields.io/badge/🔗%20GitHub-Repository-0969DA?style=for-the-badge)](https://github.com/PojashriJM/FakeJobDetection)
 
 ### DocMind AI
 
 An intelligent document analysis system that extracts, summarizes, and interprets content from documents using NLP techniques, enabling faster and smarter information processing.
 
-
+[![GitHub](https://img.shields.io/badge/🔗%20GitHub-Repository-0969DA?style=for-the-badge)](https://github.com/PojashriJM/DocMindAI)
 ---
 
 
